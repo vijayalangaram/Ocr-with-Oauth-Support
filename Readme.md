@@ -1,8 +1,8 @@
+
+Optical Caracter Recognition with oauth register support
+==================================================================
 SamranTech
 ==========
-Optical Caracter Recognition with oauth register support Project
-==================================================================
-
 Entire Document available in source with Image Explanations 
 -----------------------------------------------------------------
 
