@@ -1,8 +1,8 @@
 
 Optical Caracter Recognition with Oauth registration support
 ==================================================================
-SamranTech
-==========
+
+
 
 Mongo & MySql & Optincal character regonization(ocr) - Tesseract -SpringBoot
 -----------------------------------------------------------------------------
